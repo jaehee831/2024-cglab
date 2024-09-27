@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\extern\lodepng\lodepng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\extern\lodepng\lodepng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\extern\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{42F514EE-9410-3FDF-B63A-D0BA422CDA72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{17B2E5F5-F105-375D-A8A7-B88BBBAD1A6A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

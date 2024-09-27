@@ -1,0 +1,6 @@
+C:/Users/user/Downloads/그래픽스/PA4/programming-assignment-4-jaehee831/build2/src/neon/neon.dir/RelWithDebInfo/image.obj
+C:/Users/user/Downloads/그래픽스/PA4/programming-assignment-4-jaehee831/build2/src/neon/neon.dir/RelWithDebInfo/integrator.obj
+C:/Users/user/Downloads/그래픽스/PA4/programming-assignment-4-jaehee831/build2/src/neon/neon.dir/RelWithDebInfo/scene.obj
+C:/Users/user/Downloads/그래픽스/PA4/programming-assignment-4-jaehee831/build2/src/neon/neon.dir/RelWithDebInfo/sphere.obj
+C:/Users/user/Downloads/그래픽스/PA4/programming-assignment-4-jaehee831/build2/src/neon/neon.dir/RelWithDebInfo/material.obj
+C:/Users/user/Downloads/그래픽스/PA4/programming-assignment-4-jaehee831/build2/src/neon/neon.dir/RelWithDebInfo/utils.obj

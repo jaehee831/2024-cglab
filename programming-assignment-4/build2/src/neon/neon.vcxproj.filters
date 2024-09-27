@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\integrator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\image.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\integrator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\scene.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\sphere.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\intersection.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\rendable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\ray.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\material.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Downloads\그래픽스\PA4\programming-assignment-4-jaehee831\src\neon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{42F514EE-9410-3FDF-B63A-D0BA422CDA72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{17B2E5F5-F105-375D-A8A7-B88BBBAD1A6A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
